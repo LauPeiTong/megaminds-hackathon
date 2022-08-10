@@ -1,1 +1,1 @@
-# megaminds-travel-insurance
+# Hackathon
